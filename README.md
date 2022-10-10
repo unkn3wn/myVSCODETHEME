@@ -2,4 +2,4 @@
 
 *My Own THEME
 
-<img src = "screenshot">
+
