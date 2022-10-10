@@ -1,0 +1,29 @@
+{
+  "name": "unkn3wn-dark-grey",
+  "displayName": "MyDarkTheme",
+  "description": "this is my persoanl dark theme ",
+  "version": "0.0.1",
+  "publisher":"unkn3wn",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "keywords": [
+    "vscode",
+    "theme",
+    "Ferni",
+    "Dark",
+    "MyPersonal"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "unk3own",
+        "uiTheme": "vs-dark",
+        "path": "./themes/unk3own-color-theme.json"
+      }
+    ]
+  }
+}
